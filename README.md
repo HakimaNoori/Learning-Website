@@ -1,8 +1,8 @@
-# React + Vite
+# Learning Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Learning Website is an educational platform designed to provide users with valuable resources and interactive content to enhance their knowledge. Built with a user-friendly interface, the website offers a structured learning experience covering various topics. Whether you're a beginner or looking to expand your skills, this platform helps you navigate and absorb information efficiently.
 
-Currently, two official plugins are available:
+# Screen Record
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[screen-capture (1).webm](https://github.com/user-attachments/assets/93e4dac3-aa9c-4d27-8ec2-0ef8572d9769)
+
